@@ -1,1 +1,1 @@
-EEPROM for the Blue Snowball iCE.
+EEPROM file for the Blue Snowball iCE
